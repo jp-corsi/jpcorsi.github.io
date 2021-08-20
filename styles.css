@@ -101,6 +101,7 @@ body::-webkit-scrollbar{
     float: left;
     padding: 5px;
     padding-bottom: 30px;
+    padding-top: 30px;
 }
 
 p{
